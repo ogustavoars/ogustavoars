@@ -1,33 +1,33 @@
-<a href="https://github.com/Gs2ntana"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=180&section=header&text=JUST+DO+IT!&fontSize=30&fontColor=ffdf6b&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/ogustavoars"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=180&section=header&text=JUST+DO+IT!&fontSize=30&fontColor=ffdf6b&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdf6b&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Gustavo+Santana;I'm+20+years+old;I+am+from+Brazil;I+study+information+systems+at+IFS;Be+Welcome!🎉)](https://github.com/Gs2ntana)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdf6b&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Gustavo+Santana;I'm+20+years+old;I+am+from+Brazil;I+study+information+systems+at+IFS;Be+Welcome!🎉)](https://github.com/ogustavoars)
 
 </div>
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Gs2ntana">
-        <img width="465px" height="140px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gs2ntana&theme=nord_dark" alt="Gustavo Santana github stats" />
+      <a href="https://github.com/ogustavoars">
+        <img width="465px" height="140px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ogustavoars&theme=nord_dark" alt="Gustavo Santana github stats" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gs2ntana">
-        <img width="420px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gs2ntana&bg_color=0a0c10&theme=transparent" />
+      <a href="https://github.com/ogustavoars">
+        <img width="420px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ogustavoars&bg_color=0a0c10&theme=transparent" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Gs2ntana">
-        <img width="427px" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gs2ntana&bg_color=0a0c10&theme=transparent" />
+      <a href="https://github.com/ogustavoars">
+        <img width="427px" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogustavoars&bg_color=0a0c10&theme=transparent" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gs2ntana">
-        <img width="427px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gs2ntana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0a0c10&stroke=937CD5&ring=937CD5&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
+      <a href="https://github.com/ogustavoars">
+        <img width="427px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ogustavoars&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0a0c10&stroke=937CD5&ring=937CD5&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
       </a>
     </td>
   </tr>
@@ -37,12 +37,12 @@
 
 <div align="center">
 
-[![Santana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gs2ntana&bg_color=000000&color=FFF8DC&line=DEB887&point=DEB887&area=true&hide_border=true)](https://github.com/Gs2ntana)
+[![Santana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ogustavoars&bg_color=000000&color=FFF8DC&line=DEB887&point=DEB887&area=true&hide_border=true)](https://github.com/ogustavoars)
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/Gs2ntana">
+  <a href="https://github.com/ogustavoars">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
 
   | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=6474B9&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
@@ -50,7 +50,7 @@
   | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </br> <img width="100px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> </h3> |  | <h3 align="center">  <img width="100px" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </br> <img width="100vw" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </br> </h3> |  | <h3 align="center"> </br> <img width="100px" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </br> <img width="100px" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> </br> </h3> |
   </a>
 
-  <a href="https://github.com/Gs2ntana">
+  <a href="https://github.com/ogustavoars">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Especialização • DevOps e Cloud"/> 
   </a>
   
@@ -68,11 +68,11 @@
 
 <div>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustavosantana-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/devstna/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-  <a href="https://github.com/Gs2ntana"><img align="right" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17103%26project%3D%26in%3D604800000"></a>
-  <a href="https://github.com/Gs2ntana"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
+  <a href="https://github.com/ogustavoars"><img align="right" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17103%26project%3D%26in%3D604800000"></a>
+  <a href="https://github.com/ogustavoars"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
 </div>
 
-<a href="https://github.com/Gs2ntana">
+<a href="https://github.com/ogustavoars">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=180&section=footer&text=Challenges+are+Opportunities+to+Showcase+one's+Expertise.&fontSize=30&fontColor=ffdf6b&animation=twinkling&fontAlignY=55"/>
 </a>
 
@@ -88,7 +88,7 @@ Nothing new here ✅
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gs2ntana/Gs2ntana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gs2ntana/Gs2ntana/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gs2ntana/Gs2ntana/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogustavoars/ogustavoars/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogustavoars/ogustavoars/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ogustavoars/ogustavoars/output/github-contribution-grid-snake.svg">
 </picture>
